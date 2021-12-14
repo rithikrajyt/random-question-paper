@@ -1,0 +1,12 @@
+1,How does a structure differ from a union? Mention any 2 uses of structure. What is a bit field? Why are bit fields used with structures? ,10,CO1
+2,Write a C program using structure to find the average marks based on best of two test             marks for 100 students.      ,6,CO2
+3,Define structure? Initialization of structure and declaration of structure.             ,4,CO1
+4,"Write short notes on nested structure, pointer to pointer.                              ",5,CO2
+5,"Design, develop, and execute a program in C to read a sparse matrix of integer values and to search the sparse matrix for an element specified by the user. Print the result of the search appropriately.  Use the triple <row, column, value> to represent an element in the sparse matrix.  ",5,CO3
+6,Write a C program using structure within a structure to read the employee database and display the same.  ,10,CO3
+7,Write a C program to find the number of occurrence of each element in an array.,8,CO4
+8,List the specification of algorithm.,6,CO1
+9,How are data structures classified?,2,CO6
+10,Calculate the performance time for a given program segment.for(i=0;i<n ;i++) s=s+i;k= k +s;,6,CO6
+11,Difference between structure and union.,4,CO3
+12,"Develop a structure to represent planet in the solar system. Each planet has field for the planets name, its distance from the sun in miles and the number of moon it has. Write a program to read the data for each planet and store. Also print the name of the planet that has less distance from the sun.",10,CO5
